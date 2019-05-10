@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zadanie-bez-przycisku/static/css/main.d0a05c5a.chunk.css",
+    "main.js": "/zadanie-bez-przycisku/static/js/main.705eb4f0.chunk.js",
+    "main.js.map": "/zadanie-bez-przycisku/static/js/main.705eb4f0.chunk.js.map",
+    "runtime~main.js": "/zadanie-bez-przycisku/static/js/runtime~main.50300eb6.js",
+    "runtime~main.js.map": "/zadanie-bez-przycisku/static/js/runtime~main.50300eb6.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/zadanie-bez-przycisku/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/zadanie-bez-przycisku/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/zadanie-bez-przycisku/index.html",
+    "precache-manifest.d7ea4a941ba22ce85e265d513a0d2916.js": "/zadanie-bez-przycisku/precache-manifest.d7ea4a941ba22ce85e265d513a0d2916.js",
+    "service-worker.js": "/zadanie-bez-przycisku/service-worker.js",
+    "static/css/main.d0a05c5a.chunk.css.map": "/zadanie-bez-przycisku/static/css/main.d0a05c5a.chunk.css.map"
+  }
+}
